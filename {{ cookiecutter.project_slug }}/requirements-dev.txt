@@ -1,0 +1,4 @@
+--requirement=requirements.txt
+--requirement=tests/requirements.txt
+mypy
+ruff

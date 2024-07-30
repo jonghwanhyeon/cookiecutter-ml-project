@@ -1,0 +1,10 @@
+{
+  "project_name": "Machine Learning Project",
+  "project_slug": "{{ cookiecutter.project_name.lower().replace(' ', '-') }}",
+  "project_package": "{{ cookiecutter.project_slug.replace('-', '_') }}",
+  "project_description": "Boilerplate for machine learning project",
+  "author": "Jonghwan Hyeon",
+  "email": "jonghwanhyeon93@gmail.com",
+  "license": ["MIT", "BSD", "None"],
+  "python_requires": "3.12"
+}
